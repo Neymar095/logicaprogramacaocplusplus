@@ -1,4 +1,5 @@
 
+
 gitcomandos git
 para sincronizarbuma psta criada no repositorio 
 git clone <endereço que esta o repositorio>
