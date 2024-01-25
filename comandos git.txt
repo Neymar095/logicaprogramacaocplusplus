@@ -1,0 +1,12 @@
+gitcomandos git
+para sincronizarbuma psta criada no repositorio 
+git clone <endereço que esta o repositorio>
+ele sincroniza o repositorio
+apos sincrinização
+clicar na pasta recem sincronizada
+na barra endereço apagar tudo e digitar cmd 
+apos o prompt de comando estra aberto digitar
+git init->inicia o repositorio
+git add .->adiciona todos os arquivo criado
+git commit -m "comentario" ->adiciona um comentario para ser inserido no repositorio
+git push->adiciona o arquivo criado no repositorio
